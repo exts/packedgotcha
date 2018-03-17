@@ -1,0 +1,5 @@
+Z:\Programming\Godot3\Tutorials\PackedGotcha\.mono\temp\bin\Tools\PackedGotcha.dll
+Z:\Programming\Godot3\Tutorials\PackedGotcha\.mono\temp\bin\Tools\PackedGotcha.pdb
+Z:\Programming\Godot3\Tutorials\PackedGotcha\.mono\temp\obj\Tools\PackedGotcha.csprojResolveAssemblyReference.cache
+Z:\Programming\Godot3\Tutorials\PackedGotcha\.mono\temp\obj\Tools\PackedGotcha.dll
+Z:\Programming\Godot3\Tutorials\PackedGotcha\.mono\temp\obj\Tools\PackedGotcha.pdb
